@@ -1,3 +1,117 @@
+---
+
+```markdown
+# Subsidy Application GPT for SMEs (中小企業補助金申請GPT)
+
+> “Streamline your subsidy applications and boost your chances of success.”
+
+---
+
+## 📌 Overview
+
+**Subsidy Application GPT for SMEs (中小企業補助金申請GPT)** is a GPT-powered assistant that helps Japanese small and medium-sized enterprises (SMEs) prepare applications for government subsidies, specifically the “Monozukuri Subsidy” (ものづくり補助金).
+
+It explains the subsidy program’s outline, highlights key success points for application acceptance, and generates simplified drafts for subsidy application documents. The tool is designed for manufacturing and IT industries and produces clear, moderately formal text suitable for official documents.
+
+---
+
+## ⚙️ Features
+
+✅ Provides an overview of the Monozukuri Subsidy (ものづくり補助金)  
+✅ Explains critical points for increasing chances of approval  
+✅ Creates simple drafts for subsidy applications tailored to manufacturing or IT businesses  
+✅ Conducts additional Q&A to collect missing details  
+✅ Outputs clear, moderately formal Japanese text suitable for official use
+
+---
+
+## 🎯 Example Prompts
+
+```
+
+Please create an application draft for the Monozukuri Subsidy based on the following information:
+
+* Company Overview: Metal parts manufacturer with 20 employees
+* Challenges: Low production efficiency and inconsistent quality
+* Plan: Introduce modern CNC machines and IoT-based production management
+* Goal: Improve production efficiency by 30%
+
+```
+```
+
+Can you briefly explain what the Monozukuri Subsidy is?
+
+```
+```
+
+Create a draft application for the IT industry.
+
+```
+
+---
+
+## 💻 Example Output
+
+> 【Subsidy Overview】  
+> The Monozukuri Subsidy is a Japanese government grant program that supports SMEs working on new product or service development and productivity improvements. The subsidy covers up to half of eligible costs, with maximum amounts ranging from ¥10 million to ¥20 million.
+> 
+> 【Key Points for Application Success】  
+> - Clearly describe innovative aspects and market potential  
+> - Include measurable goals (e.g. “improve production efficiency by 30%”)  
+> - Explain potential economic benefits for the local community
+> 
+> 【Simple Application Draft】  
+> Our company is a metal parts manufacturer employing 20 staff. Currently, we face challenges such as low production efficiency and variations in product quality.  
+> Through this project, we plan to introduce state-of-the-art CNC machinery and implement IoT-based production management to achieve a 30% increase in production efficiency and stabilize product quality.  
+> This initiative is expected to enhance customer satisfaction and contribute to the local economy.
+
+---
+
+## 🛠 Technical Highlights
+
+- **Custom Prompt Engineering**
+  - Tailored to generate subsidy application drafts in a formal yet readable Japanese style
+  - Designed to handle manufacturing and IT-specific terminology
+
+- **User-Friendly Draft Creation**
+  - Helps SMEs avoid complex subsidy jargon
+  - Provides immediate document drafts to save time
+
+- **Iterative Questioning**
+  - Asks follow-up questions if information is insufficient
+
+---
+
+## ⚠️ Disclaimer
+
+- This tool is for guidance and draft creation only.
+- Official subsidy applications should be reviewed and finalized by professionals or consultants familiar with Japanese grant programs.
+- The Monozukuri Subsidy program and its requirements are subject to change.
+
+---
+
+## 🚀 Future Plans
+
+- Enhance support for English-language users  
+- Expand support for additional Japanese subsidies  
+- Include more detailed industry-specific templates
+
+---
+
+## License
+
+MIT License
+
+---
+
+> “Streamline your subsidy applications and boost your chances of success.”
+
+[View 中小企業補助金申請GPT on ChatGPT](https://chatgpt.com/g/g-6871b554e5d48191bd2fb5adf1d16870-monotukuribu-zhu-jin-nahigpt)
+```
+
+---
+
+
 # 中小企業補助金申請GPT
 
 中小企業補助金申請GPT は、中小企業経営者向けに「ものづくり補助金」の申請支援を行うAIアシスタントです。
