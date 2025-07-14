@@ -1,3 +1,5 @@
+# Subsidy Application GPT for SMEs (中小企業補助金申請GPT)
+
 ## 📌 Overview
 
 **Subsidy Application GPT for SMEs (中小企業補助金申請GPT)** is a GPT-powered assistant that helps Japanese small and medium-sized enterprises (SMEs) prepare applications for government subsidies, specifically the “Monozukuri Subsidy” (ものづくり補助金).
