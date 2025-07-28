@@ -1,3 +1,8 @@
+<p>
+<img width="1536" height="1024" alt="補助金申請、GPTがサポート。" src="https://github.com/user-attachments/assets/4cf1b4e9-8b2b-4809-afc2-65096a640e73" />
+
+</p>
+
 # 中小企業のための補助金申請GPT(中小企業補助金申請GPT)
 
 > 事務作業を削減。事務作業を削減。補助金獲得はAIにお任せください。
