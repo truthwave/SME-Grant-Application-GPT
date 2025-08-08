@@ -1,5 +1,6 @@
 <p>
-<img width="1536" height="1024" alt="補助金申請、GPTがサポート。" src="https://github.com/user-attachments/assets/dedf5dab-b9ea-47bb-9018-e4ed6dd3e727" />
+<img width="1536" height="1024" alt="補助金申請、GPTがサポート。" src="https://github.com/user-attachments/assets/7db9a9c1-8851-4c0e-b388-dc1847a15f56" />
+
 
 </p>
 
