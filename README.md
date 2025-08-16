@@ -76,7 +76,9 @@
 「業務効率を上げるため」と書きましたが、もう少し説得力のある表現にできますか？
 
 ```
+## 🌐 デモ
 
+[※ ChatGPTで使ってみる（無料）](https://chatgpt.com/g/g-6871b554e5d48191bd2fb5adf1d16870-monotukuribu-zhu-jin-nahigpt)
 ---
 
 ## ⚠️ 注意事項
