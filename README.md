@@ -78,7 +78,7 @@
 ```
 ## 🌐 デモ
 
-[※ ChatGPTで使ってみる（無料）](https://chatgpt.com/g/g-6871b554e5d48191bd2fb5adf1d16870-monotukuribu-zhu-jin-nahigpt)
+[※ ChatGPTで使ってみる（無料）](https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt)
 ---
 
 ## ⚠️ 注意事項
