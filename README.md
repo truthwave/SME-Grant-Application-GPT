@@ -92,7 +92,7 @@
 
 ## 👨‍💻 開発者
 
-[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+[ともAI便り](https://github.com/TomoAIDayori)
 
 AIツール開発、プロンプト設計、プロダクト設計まで一貫して担当。
 
