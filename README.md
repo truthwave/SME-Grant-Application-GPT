@@ -92,7 +92,7 @@
 
 ## 👨‍💻 開発者
 
-[ともAI便り](https://github.com/TomoAIDayori)
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 
 AIツール開発、プロンプト設計、プロダクト設計まで一貫して担当。
 
