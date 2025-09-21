@@ -40,7 +40,7 @@
 ---
 
 ## 📸 **体験イメージ**
-![デモ動画](https://github.com/TomoProgrammingDayori/SME-Grant-Application-GPT/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
+![デモ動画](https://github.com/truthwave/SME-Grant-Application-GPT/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
 ### [スクリーンショットはこちら](https://github.com/truthwave/SME-Grant-Application-GPT/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
 
@@ -66,6 +66,8 @@
 
 ```
 
+---
+
 ### 曖昧な表現をプロ風にリライト
 
 ```
@@ -73,9 +75,13 @@
 「業務効率を上げるため」と書きましたが、もう少し説得力のある表現にできますか？
 
 ```
+
+---
+
 ## 🌐 デモ
 
 [※ ChatGPTで使ってみる（無料）](https://chatgpt.com/g/g-6871b554e5d48191bd2fb5adf1d16870-monotukuribu-zhu-jin-nahigpt)
+
 ---
 
 ## ⚠️ 注意事項
