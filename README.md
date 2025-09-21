@@ -42,11 +42,7 @@
 ## 📸 **体験イメージ**
 ![デモ動画](https://github.com/TomoProgrammingDayori/SME-Grant-Application-GPT/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
-![初めて補助金を使う方向けの申請ステップ](https://github.com/TomoProgrammingDayori/SME-Grant-Application-GPT/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E5%88%9D%E3%82%81%E3%81%A6%E8%A3%9C%E5%8A%A9%E9%87%91%E3%82%92%E4%BD%BF%E3%81%86%E6%96%B9%E5%90%91%E3%81%91%E3%81%AE%E7%94%B3%E8%AB%8B%E3%82%B9%E3%83%86%E3%83%83%E3%83%97.jpeg)
-
-![補助金申請書ドラフト（ITサービス開発）](https://github.com/TomoProgrammingDayori/SME-Grant-Application-GPT/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E8%A3%9C%E5%8A%A9%E9%87%91%E7%94%B3%E8%AB%8B%E6%9B%B8%E3%83%89%E3%83%A9%E3%83%95%E3%83%88%EF%BC%88IT%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%96%8B%E7%99%BA%EF%BC%89.jpeg)
-
-![金属加工業者の事業目的と導入計画](https://github.com/TomoProgrammingDayori/SME-Grant-Application-GPT/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5%E6%A5%AD%E8%80%85%E3%81%AE%E4%BA%8B%E6%A5%AD%E7%9B%AE%E7%9A%84%E3%81%A8%E5%B0%8E%E5%85%A5%E8%A8%88%E7%94%BB.jpeg)
+### [スクリーンショットはこちら](https://github.com/truthwave/SME-Grant-Application-GPT/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
 
 ---
 
