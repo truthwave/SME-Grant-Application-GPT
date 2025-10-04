@@ -1,12 +1,12 @@
-<p align="center">
-<img width="1536" height="1024" alt="補助金申請、GPTがサポート。" src="https://github.com/user-attachments/assets/7db9a9c1-8851-4c0e-b388-dc1847a15f56" />
-</p>
-
 # 補助金申請GPT for 中小企業
 
 > 初稿60分 → 10分。
 > 曖昧語を、審査員の言葉に。
 > 迷いを消して、提出へ。
+
+<p align="center">
+<img width="1536" height="1024" alt="補助金申請、GPTがサポート。" src="https://github.com/user-attachments/assets/7db9a9c1-8851-4c0e-b388-dc1847a15f56" />
+</p>
 
 ---
 
