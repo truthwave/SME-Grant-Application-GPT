@@ -4,6 +4,10 @@
 > Replace vague language with reviewers' terms.
 > Eliminate hesitation and submit.
 
+<p align="center">
+<img width="1536" height="1024" alt="補助金申請GPT for 中小企業" src="https://github.com/user-attachments/assets/2b31b00a-3c30-4840-ba4e-4611633ca6cd" />
+</p>
+
 ---
 
 ## Experience
