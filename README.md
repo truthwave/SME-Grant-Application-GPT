@@ -5,7 +5,8 @@
 > 迷いを消して、提出へ。
 
 <p align="center">
-<img width="1536" height="1024" alt="補助金申請、GPTがサポート。" src="https://github.com/user-attachments/assets/7db9a9c1-8851-4c0e-b388-dc1847a15f56" />
+<img width="1536" height="1024" alt="補助金申請GPT for 中小企業" src="https://github.com/user-attachments/assets/a9f8cc39-5609-4293-a9e7-460e03160584" />
+
 </p>
 
 ---
