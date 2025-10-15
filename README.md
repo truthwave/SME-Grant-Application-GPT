@@ -82,9 +82,6 @@
 
 ---
 
-## 🌐 デモ
-
-[※ ChatGPTで使ってみる（無料）](https://chatgpt.com/g/g-6871b554e5d48191bd2fb5adf1d16870-monotukuribu-zhu-jin-nahigpt)
 
 ---
 
