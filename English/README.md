@@ -77,10 +77,6 @@ I wrote “to improve operational efficiency,” but can you make this more pers
 
 ---
 
-## 🌐 Demo
-
-[※ Try it with ChatGPT (Free)](https://chatgpt.com/g/g-6871b554e5d48191bd2fb5adf1d16870-monotukuribu-zhu-jin-nahigpt)
-
 ---
 
 ## ⚠️ Important Notes
