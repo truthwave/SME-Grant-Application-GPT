@@ -15,7 +15,7 @@
 
 
 ## プロジェクト概要
-[![時間を取り戻す。思考を整える。補助金申請GPT。](ttps://github.com/user-attachments/assets/d35d153a-0bac-4b98-b1c9-82759e331111)](https://youtu.be/fQsoR42SFl4)
+[![時間を取り戻す。思考を整える。補助金申請GPT。](https://github.com/user-attachments/assets/d35d153a-0bac-4b98-b1c9-82759e331111)](https://youtu.be/fQsoR42SFl4)
 
 ---
 
