@@ -5,7 +5,7 @@
 > Eliminate hesitation and submit.
 
 <p align="center">
-<img width="1536" height="1024" alt="補助金申請GPT for 中小企業" src="https://github.com/user-attachments/assets/2b31b00a-3c30-4840-ba4e-4611633ca6cd" />
+<img width="1536" height="1024" alt="補助金申請 (2)" src="https://github.com/user-attachments/assets/dda992b8-bfa0-44da-b5b9-21dfc14f4c74" />
 </p>
 
 ---
