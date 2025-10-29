@@ -11,6 +11,8 @@
 ---
 
 ## プロジェクト概要
+
+### Youtubeはこちら
 [![時間を取り戻す。思考を整える。補助金申請GPT。](https://github.com/user-attachments/assets/18cdf626-968d-4776-aae9-071578705731)](https://youtu.be/fQsoR42SFl4)
 
 ---
