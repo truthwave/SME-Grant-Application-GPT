@@ -45,7 +45,9 @@
 ---
 
 ## 📸Experience Image
-![Demo](https://github.com/truthwave/SME-Grant-Application-GPT/blob/main/English/Demo%20Movie.gif)
+![Demo](https://github.com/truthwave/SME-Grant-Application-GPT/blob/main/English/Materials/Demo%20Movie.gif)
+
+### [Screenshot](https://github.com/truthwave/SME-Grant-Application-GPT/tree/main/English/Materials/Screenshot)
 
 ## 💡 Use Cases (Prompt Examples)
 
