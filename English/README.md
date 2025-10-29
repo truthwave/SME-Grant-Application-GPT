@@ -9,7 +9,6 @@
 </p>
 
 ---
-<img width="1280" height="720" alt="補助金申請" src="https://github.com/user-attachments/assets/dc925907-31b2-4de4-8c5c-0f8649a8e5d9" />
 
 ## Project Overview
 [![Regain time. Organize your thoughts. Grant Application GPT.]](https://github.com/user-attachments/assets/dc925907-31b2-4de4-8c5c-0f8649a8e5d9) (https://youtu.be/fQsoR42SFl4)
